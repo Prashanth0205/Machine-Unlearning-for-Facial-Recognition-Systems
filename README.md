@@ -6,7 +6,7 @@ Link to the dataset is available [here](https://postechackr-my.sharepoint.com/:u
 
 ## Task-Agnostic Machine Unlearning Model Pipeline
 
-![TA-MUL](Task-Agnostic Machine Unlearning.png)
+![TAMUL](Task-Agnostic Machine Unlearning.png)
 
 ## SISA (Shard, Incremental, Slice, Aggregation) Training Model Pipeline
 
